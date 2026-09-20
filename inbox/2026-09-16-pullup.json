@@ -1,0 +1,73 @@
+{
+  "id": "2026-09-16-pullup",
+  "date": "2026-09-16",
+  "topic": "做引体向上遇到困难",
+  "duration_minutes": 20,
+  "level": "intermediate",
+  "hint_mode": "guided",
+  "learner_utterances": [
+    {
+      "original": "I practiced for a, but I can't do a complete pull-up because my body is so...",
+      "natural": "I've been practicing for a while.",
+      "status": "prompted"
+    },
+    {
+      "original": "I think my upper limb, especially my arm, is so gentle, so I can't strong.",
+      "natural": "I think my upper-body strength is weak, so I can't do a pull-up.",
+      "status": "prompted"
+    },
+    {
+      "original": "Weak. I think my arm is weak, so I can't do a pull-up.",
+      "natural": "Weak. I think my arm is weak, so I can't do a pull-up.",
+      "status": "independent"
+    },
+    {
+      "original": "What can you repeat?",
+      "natural": "What have you tried so far to improve your pull-ups?",
+      "status": "prompted"
+    },
+    {
+      "original": "I believe that I just want to do a full up, but it's for me so difficult because my upper body is weak.",
+      "natural": "I want to do a full pull-up, but it's so difficult for me because my upper body is weak.",
+      "status": "prompted"
+    },
+    {
+      "original": "I think maybe I should strongs my upper body...",
+      "natural": "I think maybe I should strengthen my upper body...",
+      "status": "prompted"
+    }
+  ],
+  "vocabulary_review": [
+    {
+      "term": "pull-up",
+      "meaning": "引体向上",
+      "mastery": "independent"
+    },
+    {
+      "term": "weak",
+      "meaning": "虚弱的；力量不足的",
+      "mastery": "independent after correction"
+    },
+    {
+      "term": "upper-body strength",
+      "meaning": "上肢/上半身力量",
+      "mastery": "needs active output"
+    },
+    {
+      "term": "strengthen",
+      "meaning": "加强；强化",
+      "mastery": "verb form unstable"
+    },
+    {
+      "term": "dumbbell",
+      "meaning": "哑铃",
+      "mastery": "prompted; needs retest"
+    },
+    {
+      "term": "full pull-up",
+      "meaning": "完整引体向上",
+      "mastery": "understood; needs independent retest"
+    }
+  ],
+  "notes": "Session report preserved from conversation evidence. Pronunciation was not assessed from text."
+}
